@@ -1,0 +1,17 @@
+linear
+
+arr=[1,2,32,67,4,3,22,4,5]
+N=len(arr)
+x=4
+
+Binary 
+
+arr
+X
+mid =low+high/2
+mid == X
+mid<X
+low =mid+1
+
+high=mid-1
+
